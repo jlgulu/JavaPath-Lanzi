@@ -1,4 +1,6 @@
-[![学习路线](http://assets.processon.com/chart_image/62da21401e085365eda59204.png?_=1658466761554)](http://assets.processon.com/chart_image/62da21401e085365eda59204.png?_=1658466761554)学习编程语言，是一件很痛苦的事情，但是在学到一定程度下，将会变成一件很有成就感的事情，那么接下来，对于整个学习路线，我做了一个简单的规划。
+[![学习路线](https://github.com/jlgulu/JavaPath-Lanzi/blob/main/Java后端学习路线-导出.png)
+
+学习编程语言，是一件很痛苦的事情，但是在学到一定程度下，将会变成一件很有成就感的事情，那么接下来，对于整个学习路线，我做了一个简单的规划。
 
 # 学习的主要流程分为3个阶段：
 
@@ -159,7 +161,7 @@ SpringBoot：
 - 视频
 - 雷丰阳 2021 版 SpringBoot2 零基础入门：https://www.bilibili.com/video/BV19K4y1L7MT
 
-### 六、分布式激素和
+### 六、分布式框架
 
 这部分和框架一样，主要是看视频和文档，加上动手实操。
 
@@ -241,15 +243,52 @@ ElasticSearch：
 ## 书籍集合
 
 [《Java 核心技术卷 1+卷 2》](https://book.douban.com/subject/25762168/)
+
+![image-20220803143510173](https://github.com/jlgulu/JavaPath-Lanzi/blob/main/1659508506882.png)
 [《JAVA 网络编程 第 4 版》](https://book.douban.com/subject/26259017/)
+
+![image-20220803143510173](https://github.com/jlgulu/JavaPath-Lanzi/blob/main/1659508506882.png)
+
 [《Java 编程思想 (第 4 版)》](https://book.douban.com/subject/2130190/)
+
+![image-20220803143634497](https://github.com/jlgulu/JavaPath-Lanzi/blob/main/1659508582428.png)
+
 [《实战 Java 高并发程序设计》](https://book.douban.com/subject/26663605/)
+
+![image-20220803143634497](https://github.com/jlgulu/JavaPath-Lanzi/blob/main/1659508625226.png)
+
 [《深入理解 Java 虚拟机（第 2 版）周志明》](https://book.douban.com/subject/24722612/)
+
+![image-20220803143634497](https://github.com/jlgulu/JavaPath-Lanzi/blob/main/1659508670136.png)
+
 [《高性能 MySQL》](https://book.douban.com/subject/23008813/)
+
+![image-20220803143634497](https://github.com/jlgulu/JavaPath-Lanzi/blob/main/1659508716071.png)
+
 [《Redis 实战》](https://book.douban.com/subject/26612779/)
+
+![image-20220803143634497](https://github.com/jlgulu/JavaPath-Lanzi/blob/main/1659508744288.png)
+
 [《RabbitMQ 实战指南》](https://book.douban.com/subject/26767354/)
+
+![image-20220803143634497](https://github.com/jlgulu/JavaPath-Lanzi/blob/main/1659508777887.png)
+
 [《深入分析 Java Web 技术内幕》](https://book.douban.com/subject/25953851/)
-[《Spring 实战（第 4 版）》](https://book.douban.com/subject/26767354/)
+
+![image-20220803143634497](https://github.com/jlgulu/JavaPath-Lanzi/blob/main/1659508810713.png)
+
+[《Spring 实战（第 5 版）》](https://book.douban.com/subject/34949443/)
+
+![image-20220803143634497](https://github.com/jlgulu/JavaPath-Lanzi/blob/main/1659508911078.png)
+
 [《从 Paxos 到 Zookeeper》](https://book.douban.com/subject/26292004/)
+
+![image-20220803143634497](https://github.com/jlgulu/JavaPath-Lanzi/blob/main/1659508961998.png)
+
 [《Spring Cloud 微服务实战》](https://book.douban.com/subject/27025912/)
+
+![image-20220803143634497](https://github.com/jlgulu/JavaPath-Lanzi/blob/main/1659508991535.png)
+
 [《第一本 Docker 书》](https://book.douban.com/subject/26780404/)
+
+![image-20220803143634497](https://github.com/jlgulu/JavaPath-Lanzi/blob/main/1659509022830.png)
