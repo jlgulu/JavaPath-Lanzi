@@ -1,4 +1,4 @@
-![学习路线](https://github.com/jlgulu/JavaPath-Lanzi/blob/main/Java后端学习路线-导出.png)
+![学习路线](https://github.com/jlgulu/JavaPath-Lanzi/blob/main/Java后端学习路线.png)
 
 学习编程语言，是一件很痛苦的事情，但是在学到一定程度下，将会变成一件很有成就感的事情，那么接下来，对于整个学习路线，我做了一个简单的规划。
 
